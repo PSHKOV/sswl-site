@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/sswl-site/static/css/main.f855e6bc.css",
-    "main.js": "/sswl-site/static/js/main.b7d49213.js",
-    "static/js/453.c813bc8b.chunk.js": "/sswl-site/static/js/453.c813bc8b.chunk.js",
-    "static/media/logo.svg": "/sswl-site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/sswl-site/static/css/main.e6c13ad2.css",
+    "main.js": "/sswl-site/static/js/main.71ea1e12.js",
+    "static/js/488.4577ab5c.chunk.js": "/sswl-site/static/js/488.4577ab5c.chunk.js",
     "index.html": "/sswl-site/index.html",
-    "main.f855e6bc.css.map": "/sswl-site/static/css/main.f855e6bc.css.map",
-    "main.b7d49213.js.map": "/sswl-site/static/js/main.b7d49213.js.map",
-    "453.c813bc8b.chunk.js.map": "/sswl-site/static/js/453.c813bc8b.chunk.js.map"
+    "main.e6c13ad2.css.map": "/sswl-site/static/css/main.e6c13ad2.css.map",
+    "main.71ea1e12.js.map": "/sswl-site/static/js/main.71ea1e12.js.map",
+    "488.4577ab5c.chunk.js.map": "/sswl-site/static/js/488.4577ab5c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.b7d49213.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.71ea1e12.js"
   ]
 }
